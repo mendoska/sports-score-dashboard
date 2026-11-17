@@ -31,3 +31,4 @@ Please note: Website a cold start of about 1-2 minutes when inactive for 15 minu
 * Odds + Prop information (Sport Bets)
 * Mobile UI improvements 
 
+![tests](https://github.com/mendoska/nfl-app-pi/actions/workflows/ci.yml/badge.svg)
