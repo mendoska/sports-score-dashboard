@@ -1,6 +1,6 @@
 # Sports Score Dashboard
 
-![tests](https://github.com/mendoska/nfl-app-pi/actions/workflows/ci.yml/badge.svg)
+![tests](https://github.com/mendoska/sports-score-dashboard/actions/workflows/ci.yml/badge.svg)
 
 A live scoreboard for NFL, NBA, and NHL games, pulling real-time data from ESPN's undocumented API. Games are sorted so live ones show first, then upcoming, then final.
 
